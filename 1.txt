@@ -1,5 +1,0 @@
-
-
-
-
-Conjunto de programas (.py) vistos y tareas en el curso de Python Proteco (2017) en FI UNAM 
